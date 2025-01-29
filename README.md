@@ -1,2 +1,2 @@
 # nextflow training series
-Learning at nextflowio-training gitpod.io
+Following the series at https://training.nextflow.io/hello_nextflow

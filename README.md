@@ -9,4 +9,4 @@ I am currently using nextflow to analyse OPA (Oncomine Precision Assay Data for 
 This repo has files I am going through while following the nextflow's learning series at:  
 https://training.nextflow.io/hello_nextflow
 
-It is not supposed to replicate the running env so I didn't add some necessary folders. It is just to have the files somewhere for quick reference.
+It is not supposed to replicate the running env so I didn't add all the necessary folders. I just wanted to have the some key files here for quick reference.
